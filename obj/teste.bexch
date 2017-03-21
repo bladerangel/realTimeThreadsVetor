@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__teste.o
+[PROJECT FILES]
+C:\Users\Rangel\Desktop\projetosADA\threadsVetor\default.gpr
+20170207023848
+[BOUND OBJECT FILES]
+C:\Users\Rangel\Desktop\projetosADA\threadsVetor\obj\teste.o
+[GENERATED SOURCE FILES]
+b__teste.ads
+b__teste.adb
+b__teste.ali
+[RESULTING OPTIONS]
+-LC:\Users\Rangel\Desktop\projetosADA\threadsVetor\obj\
+-LC:\Users\Rangel\Desktop\projetosADA\threadsVetor\obj\
+-LC:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/
+-static
+-static-libgcc
+C:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/libgnarl.a
+C:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
